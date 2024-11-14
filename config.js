@@ -4,8 +4,8 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '4915678382282'
+global.nomerowner = ["4915678382282"]
 
 // Apikey 
 
